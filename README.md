@@ -26,7 +26,7 @@
 
 ### Let's Connect!
 - **Instagram:** [@sholahatulhaq](https://instagram.com/sholahatulhaq)
-- **Email:** msholahatulhaq@... *(isi dengan domain emailmu, misal: gmail.com atau mhs.unsoed.ac.id)*
+- **Email:** msholahatulhaq@gmail.com*
 
 ---
 <p align="center"><i>“Bridging the gap between software algorithms and hardware execution.”</i></p>
