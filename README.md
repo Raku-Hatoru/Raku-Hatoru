@@ -19,10 +19,6 @@
 - [**PerpusDigital**](https://github.com/Raku-Hatoru/PerpusDigital) - Sistem informasi perpustakaan digital.
 - [**JawaTour**](https://github.com/Raku-Hatoru/JawaTour) - Platform eksplorasi dan informasi pariwisata.
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raku-Hatoru&show_icons=true&theme=tokyonight&hide_border=true" alt="Raku-Hatoru's GitHub stats" />
-</div>
 
 ### Let's Connect!
 - **Instagram:** [@sholahatulhaq](https://instagram.com/sholahatulhaq)
