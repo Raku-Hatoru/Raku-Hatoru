@@ -7,12 +7,12 @@
 ###  Current Focus & What I'm Working On
 - Preparing for upcoming **Hackathons** and developing digital business solutions for **P2MW** (Program Pembinaan Mahasiswa Wirausaha).
 - Building and fine-tuning **Sumobot** (Fun fact: most of my advanced robotics and IoT projects are kept closely guarded in private repositories!).
-- Exploring Computer Vision with **YOLOv8** and extracting real-time coordinates.
+- Exploring Computer Vision with **YOLOv11** and extracting real-time coordinates.
 - Tinkering with **Arch Linux**, **Raspberry Pi 4**, and **ESP32** for various hardware-software integrations.
 
 ### Tech Stack & Tools
 - **Languages:** Python, PHP, C++, JavaScript
-- **OS & Tools:** Arch Linux, ROS, Git, Wireshark
+- **OS & Tools:** Arch Linux, ROS, Git, Windows
 - **Hardware:** ESP32, Arduino, Raspberry Pi 4
 
 ### Highlighted Projects 
